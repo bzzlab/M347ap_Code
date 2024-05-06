@@ -1,9 +1,0 @@
-# parent-dockerfile
-FROM ubuntu:16.04
-ONBUILD RUN echo "Greetings from your base image!" > /tmp/hello.txt
-CMD ["bash"]
-
-
-
-
-

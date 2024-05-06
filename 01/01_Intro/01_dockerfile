@@ -1,8 +1,3 @@
-ARG CODE_VERSION=16.04
-FROM ubuntu:${CODE_VERSION}
-# Updaten ohne bestätigen
-RUN apt-get update -y
-# bash starten
-CMD ["bash"]
+
 
 
