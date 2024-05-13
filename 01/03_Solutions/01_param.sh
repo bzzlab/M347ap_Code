@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+file="01_dockerfile"
+image=m347_ie1
+container=m347_ce1
