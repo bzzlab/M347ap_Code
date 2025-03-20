@@ -1,4 +1,5 @@
 /.idea
-/repo.sh
+repo.sh
+.gitignore
 /myenv
 
