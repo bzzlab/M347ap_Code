@@ -1,0 +1,7 @@
+ARG OS_VERSION=20.04
+# Fetch OS
+FROM ubuntu:${OS_VERSION}
+# bash starten
+CMD ["bash"]
+
+
